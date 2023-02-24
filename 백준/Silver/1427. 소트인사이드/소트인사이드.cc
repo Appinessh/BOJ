@@ -9,7 +9,7 @@ int main(void)
 	cin.tie(NULL);
 	int n;
 	cin >> n;
-	vector<int> v(20);
+	vector<int> v(10);
 	int cnt = 1;
 	while (n!= 0)
 	{
